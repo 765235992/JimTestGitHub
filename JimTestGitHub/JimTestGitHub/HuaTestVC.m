@@ -10,4 +10,11 @@
 
 @implementation HuaTestVC
 
+- (void)viewDidLoad
+{
+    [super viewDidLoad];
+    
+    //dev:1
+
+}
 @end
