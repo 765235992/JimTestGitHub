@@ -16,6 +16,7 @@
 		781962631CE9AC0B00E363D9 /* JimTestGitHubTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 781962621CE9AC0B00E363D9 /* JimTestGitHubTests.m */; };
 		7819626E1CE9AC0B00E363D9 /* JimTestGitHubUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7819626D1CE9AC0B00E363D9 /* JimTestGitHubUITests.m */; };
 		7819627D1CE9AD9400E363D9 /* HuaTestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 7819627C1CE9AD9400E363D9 /* HuaTestVC.m */; };
+		781962801CE9B17700E363D9 /* TestTwo.m in Sources */ = {isa = PBXBuildFile; fileRef = 7819627F1CE9B17700E363D9 /* TestTwo.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		7819626F1CE9AC0B00E363D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7819627B1CE9AD9400E363D9 /* HuaTestVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HuaTestVC.h; sourceTree = "<group>"; };
 		7819627C1CE9AD9400E363D9 /* HuaTestVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HuaTestVC.m; sourceTree = "<group>"; };
+		7819627E1CE9B17700E363D9 /* TestTwo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestTwo.h; sourceTree = "<group>"; };
+		7819627F1CE9B17700E363D9 /* TestTwo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestTwo.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +118,8 @@
 				781962481CE9AC0B00E363D9 /* Supporting Files */,
 				7819627B1CE9AD9400E363D9 /* HuaTestVC.h */,
 				7819627C1CE9AD9400E363D9 /* HuaTestVC.m */,
+				7819627E1CE9B17700E363D9 /* TestTwo.h */,
+				7819627F1CE9B17700E363D9 /* TestTwo.m */,
 			);
 			path = JimTestGitHub;
 			sourceTree = "<group>";
@@ -279,6 +284,7 @@
 				7819627D1CE9AD9400E363D9 /* HuaTestVC.m in Sources */,
 				7819624D1CE9AC0B00E363D9 /* AppDelegate.m in Sources */,
 				7819624A1CE9AC0B00E363D9 /* main.m in Sources */,
+				781962801CE9B17700E363D9 /* TestTwo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
