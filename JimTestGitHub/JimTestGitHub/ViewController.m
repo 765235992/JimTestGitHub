@@ -18,7 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     //dev:1
-    //dev:2
+    //dev:2  发布过程中产生了BUG  需要进行修改
     //dev:3
 
 }
